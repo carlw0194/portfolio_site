@@ -128,6 +128,7 @@ const ProjectEBankDatabase = () => {
         </div>
       </div>
     </div>
+  )
   );
 };
 
